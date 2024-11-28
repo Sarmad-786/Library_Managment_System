@@ -99,12 +99,12 @@ The system has been tested for various scenarios, including:
 
 OUTPUT:
 •	Main-Menu
- 
+ ![image](https://github.com/user-attachments/assets/6b5e5aa8-bffe-4ce4-8232-25d630dced20)
+
 
 Conclusion:
 The Library Management System effectively addresses the needs of both members and administrators in the library environment. It provides a seamless experience for managing library services, ensuring that all necessary information is easily accessible and securely stored. This project demonstrates the application of data structures and algorithms in building a functional and user-friendly software solution. Future improvements could include a graphical user interface (GUI) and integration with online catalog systems for a more robust application.
 
-GIT HUB LINK : 
 
 
 
